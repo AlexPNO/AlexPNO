@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexPNO
-- 👀 I’m interested in Python, Java, Ruby, Data Science and Cloud COmputing
+- 👀 I’m interested in Python, Java, Ruby, Data Science and Cloud Computing
 - 🌱 I’m currently learning Python and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
